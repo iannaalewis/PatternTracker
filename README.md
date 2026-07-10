@@ -18,6 +18,12 @@ Picture viewer - every page rendered to an image; pick a cover and pull up chart
 
 Saves your place - counts and position persist across sessions.
 
+Project library - every pattern you import is saved as its own project on a home screen, each with a progress bar showing how far along it is.
+
+Progress & completion - each project carries an in-progress or finished status and records when you started and finished; a pattern marks itself finished once every row is checked off.
+
+Activity log - keeps a per-day record of how many rows you completed, viewable as a dated history for each project.
+
 This is a single-file React component. pdf.js and Tesseract.js load at runtime from a CDN; read-aloud uses the browser's Web Speech API; the AI cleanup step calls the Anthropic API.
 
 <img width="1688" height="1189" alt="myPatternTracker" src="https://github.com/user-attachments/assets/b0bf978a-d450-431e-aa13-bd64c799bdf8" />
