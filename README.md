@@ -19,3 +19,11 @@ Picture viewer - every page rendered to an image; pick a cover and pull up chart
 Saves your place - counts and position persist across sessions.
 
 This is a single-file React component. pdf.js and Tesseract.js load at runtime from a CDN; read-aloud uses the browser's Web Speech API; the AI cleanup step calls the Anthropic API.
+
+<img width="1688" height="1189" alt="myPatternTracker" src="https://github.com/user-attachments/assets/b0bf978a-d450-431e-aa13-bd64c799bdf8" />
+
+<img width="1650" height="1192" alt="myPatternTracker(1)" src="https://github.com/user-attachments/assets/452d0644-af43-4091-a35d-c70c548af71d" />
+
+<img width="1482" height="1191" alt="myPatternTracker(2)" src="https://github.com/user-attachments/assets/af0ebaf3-6533-4c53-981f-8cdf946e1f4f" />
+
+
